@@ -1,2 +1,3 @@
 Conteúdo específico da Branch main
 Essa linha foi adicionada na branch main
+Essa linha foi adicionada na branch A
