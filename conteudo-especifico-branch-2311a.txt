@@ -1,1 +1,4 @@
-Conteudo criado inicialmente na branch 2311a
+Conteudo criado inicialmente na branch 2311a.
+
+Esse texto vai gerar conflito ao ser realizado o merge com a branch main, pois o arquivo em
+questão existe lá, mas com outro conteúdo.
